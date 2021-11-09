@@ -1,2 +1,2 @@
 # FDX
-prostep ivip project group Functional Data Exchange workflow Forum
+prostep ivip project group Functional Data Exchange Workflow Forum
