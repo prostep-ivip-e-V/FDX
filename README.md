@@ -8,8 +8,8 @@ Thanks in advance for helping improving the quality of our FDX documents.
 
 Here the list of published FDX documents:
 
-[FDX recommendation Part1] https://www.prostep.org/fileadmin/downloads/PSI_VDA_Recom_FDX_Version_1.1.pdf
+- FDX Recommendation Part1: https://www.prostep.org/fileadmin/downloads/PSI_VDA_Recom_FDX_Version_1.1.pdf
 
-[FDX recommendation Part2] https://www.prostep.org/fileadmin/downloads/FDX-v2.0_1.zip  
+- FDX recommendation Part2: https://www.prostep.org/fileadmin/downloads/FDX-v2.0_1.zip  
 
 Your Prostep ivip FDX Group
