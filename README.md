@@ -6,7 +6,7 @@ Dear user,
 If you want to comment a document in our repository, please create an issue with a reference to the relevant document to leave your comment.
 Thanks in advance for helping improving the quality of our FDX documents.
 
-Here the list of published FDX documents:
+The list of published FDX documents:
 
 - FDX Recommendation Part1: https://www.prostep.org/fileadmin/downloads/PSI_VDA_Recom_FDX_Version_1.1.pdf
 
