@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="UTF-8"?><exo:Exoknox xmlns:exo="http://exoknox.com/xsd/Exoknox/20211001" xmlns:bushingvda1="http://exoknox.com/xsd/20211001/Bushing/VDA/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://exoknox.com/xsd/Exoknox/20211001 ExoknoxMain-0.9.3.xsd http://exoknox.com/xsd/20211001/Bushing/VDA/1 VDA-Bushing-1.xsd">
+  <bushingvda1:Bushing>
+    <bushingvda1:Bundle globalId="4300ee2f-7a19-45e8-bba0-debd054956c8" templateVersion="1" version="1">
+      <bushingvda1:BundleMetadata>
+        <bushingvda1:BASE__MSOrder>
+          <bushingvda1:BASE__OrderInfo>
+            <bushingvda1:BASE__CustName>John Company</bushingvda1:BASE__CustName>
+            <bushingvda1:BASE__RequesterDepartment>ACME Bushing Department</bushingvda1:BASE__RequesterDepartment>
+            <bushingvda1:BASE__RequesterName>John Doe</bushingvda1:BASE__RequesterName>
+            <bushingvda1:BASE__RequesterPhone>++12 3456 7890</bushingvda1:BASE__RequesterPhone>
+            <bushingvda1:BASE__OrderNumber>164.025.236.4686</bushingvda1:BASE__OrderNumber>
+          </bushingvda1:BASE__OrderInfo>
+        </bushingvda1:BASE__MSOrder>
+        <bushingvda1:BASE__OrderMetaDat>
+          <bushingvda1:BASE__BundleStat>
+            <bushingvda1:BASE__BundleType>Order</bushingvda1:BASE__BundleType>
+            <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+            <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+            <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:24</bushingvda1:BASE__TimeStampCreation>
+            <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+            <bushingvda1:BASE__TimeStampModification>2021-12-23T10:43:47</bushingvda1:BASE__TimeStampModification>
+          </bushingvda1:BASE__BundleStat>
+          <bushingvda1:BASE__DataClassif>
+            <bushingvda1:BASE__CustConfidentialityClass>Internal</bushingvda1:BASE__CustConfidentialityClass>
+          </bushingvda1:BASE__DataClassif>
+          <bushingvda1:BASE__CustPartRev>
+            <bushingvda1:BASE__CustPartDescription>Cradle Bushing front</bushingvda1:BASE__CustPartDescription>
+            <bushingvda1:BASE__CustPartNumber>PN42110010</bushingvda1:BASE__CustPartNumber>
+            <bushingvda1:BASE__CustPartNumberVersion>0.001</bushingvda1:BASE__CustPartNumberVersion>
+            <bushingvda1:BASE__CustDrawingNumber>PN42110010</bushingvda1:BASE__CustDrawingNumber>
+            <bushingvda1:BASE__CustDrawingNumberVersion>0,002</bushingvda1:BASE__CustDrawingNumberVersion>
+            <bushingvda1:BASE__CustDrawingStatus>DS1</bushingvda1:BASE__CustDrawingStatus>
+            <bushingvda1:BASE__CustDevelopmentStage>Model Validation</bushingvda1:BASE__CustDevelopmentStage>
+          </bushingvda1:BASE__CustPartRev>
+          <bushingvda1:BASE__SuppPartRev>
+            <bushingvda1:BASE__SuppName>ACME Supplier of great products</bushingvda1:BASE__SuppName>
+          </bushingvda1:BASE__SuppPartRev>
+        </bushingvda1:BASE__OrderMetaDat>
+        <bushingvda1:BASE__AddInfoPartSpec>
+          <bushingvda1:BASE__AddInfo>
+            <bushingvda1:BASE__PartType>
+              <bushingvda1:Value>Conventional</bushingvda1:Value>
+            </bushingvda1:BASE__PartType>
+            <bushingvda1:BASE__BushingType>Passive</bushingvda1:BASE__BushingType>
+            <bushingvda1:BASE__HardnessShore unit="Shore">50.0</bushingvda1:BASE__HardnessShore>
+            <bushingvda1:BASE__Characteristic>AP1.2</bushingvda1:BASE__Characteristic>
+            <bushingvda1:BASE__HullDiameter unit="m">120.0</bushingvda1:BASE__HullDiameter>
+            <bushingvda1:BASE__CoreLength unit="m">110.0</bushingvda1:BASE__CoreLength>
+            <bushingvda1:BASE__CoreBoreDiameter unit="m">14.1</bushingvda1:BASE__CoreBoreDiameter>
+          </bushingvda1:BASE__AddInfo>
+        </bushingvda1:BASE__AddInfoPartSpec>
+      </bushingvda1:BundleMetadata>
+      <bushingvda1:DataSets>
+        <bushingvda1:DataSet globalId="3f8021d2-af8d-41d5-a474-3830fc13d44a" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-s stat. X -10kN 10kN</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:40</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:01:59</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-10000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">10000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.66667E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-10000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">10000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveStiffDisplSt>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+            </bushingvda1:BASE__CurveStiffDisplSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="87a39713-e17b-4b96-8d8b-b9397602a6e7" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. X 1mm 1001Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:32</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:54</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is an extension of the standard measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-5</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>SupportingPoints</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__Frequency unit="1/s">
+                  <exo:Value>1.0</exo:Value>
+                  <exo:Value>3.0</exo:Value>
+                  <exo:Value>5.0</exo:Value>
+                  <exo:Value>7.0</exo:Value>
+                  <exo:Value>9.0</exo:Value>
+                  <exo:Value>11.0</exo:Value>
+                  <exo:Value>13.0</exo:Value>
+                  <exo:Value>15.0</exo:Value>
+                  <exo:Value>17.0</exo:Value>
+                  <exo:Value>19.0</exo:Value>
+                  <exo:Value>21.0</exo:Value>
+                  <exo:Value>23.0</exo:Value>
+                  <exo:Value>25.0</exo:Value>
+                  <exo:Value>27.0</exo:Value>
+                  <exo:Value>29.0</exo:Value>
+                  <exo:Value>31.0</exo:Value>
+                  <exo:Value>36.0</exo:Value>
+                  <exo:Value>41.0</exo:Value>
+                  <exo:Value>46.0</exo:Value>
+                  <exo:Value>51.0</exo:Value>
+                  <exo:Value>56.0</exo:Value>
+                  <exo:Value>61.0</exo:Value>
+                  <exo:Value>66.0</exo:Value>
+                  <exo:Value>71.0</exo:Value>
+                  <exo:Value>76.0</exo:Value>
+                  <exo:Value>81.0</exo:Value>
+                  <exo:Value>86.0</exo:Value>
+                  <exo:Value>91.0</exo:Value>
+                  <exo:Value>96.0</exo:Value>
+                  <exo:Value>101.0</exo:Value>
+                  <exo:Value>111.0</exo:Value>
+                  <exo:Value>121.0</exo:Value>
+                  <exo:Value>131.0</exo:Value>
+                  <exo:Value>141.0</exo:Value>
+                  <exo:Value>151.0</exo:Value>
+                  <exo:Value>161.0</exo:Value>
+                  <exo:Value>171.0</exo:Value>
+                  <exo:Value>181.0</exo:Value>
+                  <exo:Value>191.0</exo:Value>
+                  <exo:Value>201.0</exo:Value>
+                  <exo:Value>301.0</exo:Value>
+                  <exo:Value>401.0</exo:Value>
+                  <exo:Value>501.0</exo:Value>
+                  <exo:Value>601.0</exo:Value>
+                  <exo:Value>701.0</exo:Value>
+                  <exo:Value>801.0</exo:Value>
+                  <exo:Value>901.0</exo:Value>
+                  <exo:Value>1001.0</exo:Value>
+                </bushingvda1:BASE__Frequency>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="172c3adc-908c-4694-b153-c3526c020cdb" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 F-s stat. X -30kN 30kN</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:35</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:31</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>HighLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-30000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">30000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.66667E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-30000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">30000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveForceDisplSt>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>-0.0025</exo:Value>
+                <exo:Value>-0.002450495</exo:Value>
+                <exo:Value>-0.00240099</exo:Value>
+                <exo:Value>-0.0023514852</exo:Value>
+                <exo:Value>-0.0023019803</exo:Value>
+                <exo:Value>-0.0022524754</exo:Value>
+                <exo:Value>-0.0022029702</exo:Value>
+                <exo:Value>-0.0021534653</exo:Value>
+                <exo:Value>-0.0021039604</exo:Value>
+                <exo:Value>-0.0020544555</exo:Value>
+                <exo:Value>-0.0020049505</exo:Value>
+                <exo:Value>-0.0019554456</exo:Value>
+                <exo:Value>-0.0019059406</exo:Value>
+                <exo:Value>-0.0018564357</exo:Value>
+                <exo:Value>-0.0018069306</exo:Value>
+                <exo:Value>-0.0017574257</exo:Value>
+                <exo:Value>-0.0017079208</exo:Value>
+                <exo:Value>-0.0016584159</exo:Value>
+                <exo:Value>-0.0016089109</exo:Value>
+                <exo:Value>-0.0015594059</exo:Value>
+                <exo:Value>-0.001509901</exo:Value>
+                <exo:Value>-0.001460396</exo:Value>
+                <exo:Value>-0.0014108911</exo:Value>
+                <exo:Value>-0.0013613862</exo:Value>
+                <exo:Value>-0.0013118812</exo:Value>
+                <exo:Value>-0.0012623762</exo:Value>
+                <exo:Value>-0.0012128713</exo:Value>
+                <exo:Value>-0.0011633664</exo:Value>
+                <exo:Value>-0.0011138613</exo:Value>
+                <exo:Value>-0.0010643564</exo:Value>
+                <exo:Value>-0.0010148515</exo:Value>
+                <exo:Value>-9.653465E-4</exo:Value>
+                <exo:Value>-9.158416E-4</exo:Value>
+                <exo:Value>-8.6633663E-4</exo:Value>
+                <exo:Value>-8.1683166E-4</exo:Value>
+                <exo:Value>-7.6732674E-4</exo:Value>
+                <exo:Value>-7.1782176E-4</exo:Value>
+                <exo:Value>-6.6831685E-4</exo:Value>
+                <exo:Value>-6.188119E-4</exo:Value>
+                <exo:Value>-5.6930695E-4</exo:Value>
+                <exo:Value>-5.19802E-4</exo:Value>
+                <exo:Value>-4.7029703E-4</exo:Value>
+                <exo:Value>-4.207921E-4</exo:Value>
+                <exo:Value>-3.7128714E-4</exo:Value>
+                <exo:Value>-3.2178216E-4</exo:Value>
+                <exo:Value>-2.7227722E-4</exo:Value>
+                <exo:Value>-2.2277227E-4</exo:Value>
+                <exo:Value>-1.7326733E-4</exo:Value>
+                <exo:Value>-1.2376238E-4</exo:Value>
+                <exo:Value>-7.425743E-5</exo:Value>
+                <exo:Value>-2.4752475E-5</exo:Value>
+                <exo:Value>2.4752475E-5</exo:Value>
+                <exo:Value>7.425743E-5</exo:Value>
+                <exo:Value>1.2376238E-4</exo:Value>
+                <exo:Value>1.7326733E-4</exo:Value>
+                <exo:Value>2.2277227E-4</exo:Value>
+                <exo:Value>2.7227722E-4</exo:Value>
+                <exo:Value>3.2178216E-4</exo:Value>
+                <exo:Value>3.7128714E-4</exo:Value>
+                <exo:Value>4.207921E-4</exo:Value>
+                <exo:Value>4.7029703E-4</exo:Value>
+                <exo:Value>5.19802E-4</exo:Value>
+                <exo:Value>5.6930695E-4</exo:Value>
+                <exo:Value>6.188119E-4</exo:Value>
+                <exo:Value>6.6831685E-4</exo:Value>
+                <exo:Value>7.1782176E-4</exo:Value>
+                <exo:Value>7.6732674E-4</exo:Value>
+                <exo:Value>8.1683166E-4</exo:Value>
+                <exo:Value>8.6633663E-4</exo:Value>
+                <exo:Value>9.158416E-4</exo:Value>
+                <exo:Value>9.653465E-4</exo:Value>
+                <exo:Value>0.0010148515</exo:Value>
+                <exo:Value>0.0010643564</exo:Value>
+                <exo:Value>0.0011138613</exo:Value>
+                <exo:Value>0.0011633664</exo:Value>
+                <exo:Value>0.0012128713</exo:Value>
+                <exo:Value>0.0012623762</exo:Value>
+                <exo:Value>0.0013118812</exo:Value>
+                <exo:Value>0.0013613862</exo:Value>
+                <exo:Value>0.0014108911</exo:Value>
+                <exo:Value>0.001460396</exo:Value>
+                <exo:Value>0.001509901</exo:Value>
+                <exo:Value>0.0015594059</exo:Value>
+                <exo:Value>0.0016089109</exo:Value>
+                <exo:Value>0.0016584159</exo:Value>
+                <exo:Value>0.0017079208</exo:Value>
+                <exo:Value>0.0017574257</exo:Value>
+                <exo:Value>0.0018069306</exo:Value>
+                <exo:Value>0.0018564357</exo:Value>
+                <exo:Value>0.0019059406</exo:Value>
+                <exo:Value>0.0019554456</exo:Value>
+                <exo:Value>0.0020049505</exo:Value>
+                <exo:Value>0.0020544555</exo:Value>
+                <exo:Value>0.0021039604</exo:Value>
+                <exo:Value>0.0021534653</exo:Value>
+                <exo:Value>0.0022029702</exo:Value>
+                <exo:Value>0.0022524754</exo:Value>
+                <exo:Value>0.0023019803</exo:Value>
+                <exo:Value>0.0023514852</exo:Value>
+                <exo:Value>0.00240099</exo:Value>
+                <exo:Value>0.002450495</exo:Value>
+                <exo:Value>0.0025</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Force unit="N">
+                <exo:Value>-39260.0</exo:Value>
+                <exo:Value>-36593.547</exo:Value>
+                <exo:Value>-34049.63</exo:Value>
+                <exo:Value>-31628.248</exo:Value>
+                <exo:Value>-29329.404</exo:Value>
+                <exo:Value>-27153.1</exo:Value>
+                <exo:Value>-25099.33</exo:Value>
+                <exo:Value>-23168.098</exo:Value>
+                <exo:Value>-21359.402</exo:Value>
+                <exo:Value>-19673.244</exo:Value>
+                <exo:Value>-18109.623</exo:Value>
+                <exo:Value>-16668.54</exo:Value>
+                <exo:Value>-15349.991</exo:Value>
+                <exo:Value>-14153.981</exo:Value>
+                <exo:Value>-13080.508</exo:Value>
+                <exo:Value>-12129.571</exo:Value>
+                <exo:Value>-11301.173</exo:Value>
+                <exo:Value>-10595.311</exo:Value>
+                <exo:Value>-10011.985</exo:Value>
+                <exo:Value>-9516.592</exo:Value>
+                <exo:Value>-9042.472</exo:Value>
+                <exo:Value>-8587.957</exo:Value>
+                <exo:Value>-8153.049</exo:Value>
+                <exo:Value>-7737.746</exo:Value>
+                <exo:Value>-7342.05</exo:Value>
+                <exo:Value>-6965.959</exo:Value>
+                <exo:Value>-6609.4746</exo:Value>
+                <exo:Value>-6272.5957</exo:Value>
+                <exo:Value>-5955.323</exo:Value>
+                <exo:Value>-5657.6562</exo:Value>
+                <exo:Value>-5379.595</exo:Value>
+                <exo:Value>-5116.3364</exo:Value>
+                <exo:Value>-4853.9604</exo:Value>
+                <exo:Value>-4591.584</exo:Value>
+                <exo:Value>-4329.208</exo:Value>
+                <exo:Value>-4066.8318</exo:Value>
+                <exo:Value>-3804.4556</exo:Value>
+                <exo:Value>-3542.079</exo:Value>
+                <exo:Value>-3279.703</exo:Value>
+                <exo:Value>-3017.3267</exo:Value>
+                <exo:Value>-2754.9504</exo:Value>
+                <exo:Value>-2492.5742</exo:Value>
+                <exo:Value>-2230.198</exo:Value>
+                <exo:Value>-1967.8218</exo:Value>
+                <exo:Value>-1705.4456</exo:Value>
+                <exo:Value>-1443.0693</exo:Value>
+                <exo:Value>-1180.6931</exo:Value>
+                <exo:Value>-918.31683</exo:Value>
+                <exo:Value>-655.9406</exo:Value>
+                <exo:Value>-393.56436</exo:Value>
+                <exo:Value>-131.18813</exo:Value>
+                <exo:Value>131.18813</exo:Value>
+                <exo:Value>393.56436</exo:Value>
+                <exo:Value>655.9406</exo:Value>
+                <exo:Value>918.31683</exo:Value>
+                <exo:Value>1180.6931</exo:Value>
+                <exo:Value>1443.0693</exo:Value>
+                <exo:Value>1705.4456</exo:Value>
+                <exo:Value>1967.8218</exo:Value>
+                <exo:Value>2230.198</exo:Value>
+                <exo:Value>2492.5742</exo:Value>
+                <exo:Value>2754.9504</exo:Value>
+                <exo:Value>3017.3267</exo:Value>
+                <exo:Value>3279.703</exo:Value>
+                <exo:Value>3542.079</exo:Value>
+                <exo:Value>3804.4556</exo:Value>
+                <exo:Value>4066.8318</exo:Value>
+                <exo:Value>4329.208</exo:Value>
+                <exo:Value>4591.584</exo:Value>
+                <exo:Value>4853.9604</exo:Value>
+                <exo:Value>5116.3364</exo:Value>
+                <exo:Value>5379.595</exo:Value>
+                <exo:Value>5657.6562</exo:Value>
+                <exo:Value>5955.323</exo:Value>
+                <exo:Value>6272.5957</exo:Value>
+                <exo:Value>6609.4746</exo:Value>
+                <exo:Value>6965.959</exo:Value>
+                <exo:Value>7342.05</exo:Value>
+                <exo:Value>7737.746</exo:Value>
+                <exo:Value>8153.049</exo:Value>
+                <exo:Value>8587.957</exo:Value>
+                <exo:Value>9042.472</exo:Value>
+                <exo:Value>9516.592</exo:Value>
+                <exo:Value>10011.985</exo:Value>
+                <exo:Value>10595.311</exo:Value>
+                <exo:Value>11301.173</exo:Value>
+                <exo:Value>12129.571</exo:Value>
+                <exo:Value>13080.508</exo:Value>
+                <exo:Value>14153.981</exo:Value>
+                <exo:Value>15349.991</exo:Value>
+                <exo:Value>16668.54</exo:Value>
+                <exo:Value>18109.623</exo:Value>
+                <exo:Value>19673.244</exo:Value>
+                <exo:Value>21359.402</exo:Value>
+                <exo:Value>23168.098</exo:Value>
+                <exo:Value>25099.33</exo:Value>
+                <exo:Value>27153.1</exo:Value>
+                <exo:Value>29329.404</exo:Value>
+                <exo:Value>31628.248</exo:Value>
+                <exo:Value>34049.63</exo:Value>
+                <exo:Value>36593.547</exo:Value>
+                <exo:Value>39260.0</exo:Value>
+              </bushingvda1:BASE__Force>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveForceDisplSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="5976d50a-4ddd-4887-8cfb-3c796120ccb9" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 F-s dyn. X -30kN 30kN</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:33</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:29</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is an extension of the standard measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>HighLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Displacement</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__DisplacementStart unit="m">-0.0023</bushingvda1:BASE__DisplacementStart>
+                <bushingvda1:BASE__DisplacementStop unit="m">0.0023</bushingvda1:BASE__DisplacementStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.0</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Sinus</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>3</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Displacement</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__DisplacementStart unit="m">-0.0023</bushingvda1:BASE__DisplacementStart>
+                <bushingvda1:BASE__DisplacementStop unit="m">0.0023</bushingvda1:BASE__DisplacementStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveForceDisplDyn>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Force unit="N">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Force>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveForceDisplDyn>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="68b19992-665b-47b1-8bf9-ca8e6149e5fd" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. Z 1mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:25</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:59</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Axial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">0.001</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="f5f214a7-8a6e-4d9d-a584-f9b8d1a6fe0e" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 M-Phi stat. X -5deg 5deg</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:35</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:37</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Rotational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionRot>Cardanic</bushingvda1:BASE__DesignDirectionRot>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0436332</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0218166</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveMomentAngleSt>
+              <bushingvda1:BASE__Angle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Angle>
+              <bushingvda1:BASE__Moment unit="Nm">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Moment>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveMomentAngleSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="2463fcb6-d85a-4864-8777-54708c4e8234" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. X 0,1mm 1001Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:27</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:46</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is an extension of the standard measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-5</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>SupportingPoints</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__Frequency unit="1/s">
+                  <exo:Value>1.0</exo:Value>
+                  <exo:Value>3.0</exo:Value>
+                  <exo:Value>5.0</exo:Value>
+                  <exo:Value>7.0</exo:Value>
+                  <exo:Value>9.0</exo:Value>
+                  <exo:Value>11.0</exo:Value>
+                  <exo:Value>13.0</exo:Value>
+                  <exo:Value>15.0</exo:Value>
+                  <exo:Value>17.0</exo:Value>
+                  <exo:Value>19.0</exo:Value>
+                  <exo:Value>21.0</exo:Value>
+                  <exo:Value>23.0</exo:Value>
+                  <exo:Value>25.0</exo:Value>
+                  <exo:Value>27.0</exo:Value>
+                  <exo:Value>29.0</exo:Value>
+                  <exo:Value>31.0</exo:Value>
+                  <exo:Value>36.0</exo:Value>
+                  <exo:Value>41.0</exo:Value>
+                  <exo:Value>46.0</exo:Value>
+                  <exo:Value>51.0</exo:Value>
+                  <exo:Value>56.0</exo:Value>
+                  <exo:Value>61.0</exo:Value>
+                  <exo:Value>66.0</exo:Value>
+                  <exo:Value>71.0</exo:Value>
+                  <exo:Value>76.0</exo:Value>
+                  <exo:Value>81.0</exo:Value>
+                  <exo:Value>86.0</exo:Value>
+                  <exo:Value>91.0</exo:Value>
+                  <exo:Value>96.0</exo:Value>
+                  <exo:Value>101.0</exo:Value>
+                  <exo:Value>111.0</exo:Value>
+                  <exo:Value>121.0</exo:Value>
+                  <exo:Value>131.0</exo:Value>
+                  <exo:Value>141.0</exo:Value>
+                  <exo:Value>151.0</exo:Value>
+                  <exo:Value>161.0</exo:Value>
+                  <exo:Value>171.0</exo:Value>
+                  <exo:Value>181.0</exo:Value>
+                  <exo:Value>191.0</exo:Value>
+                  <exo:Value>201.0</exo:Value>
+                  <exo:Value>301.0</exo:Value>
+                  <exo:Value>401.0</exo:Value>
+                  <exo:Value>501.0</exo:Value>
+                  <exo:Value>601.0</exo:Value>
+                  <exo:Value>701.0</exo:Value>
+                  <exo:Value>801.0</exo:Value>
+                  <exo:Value>901.0</exo:Value>
+                  <exo:Value>1001.0</exo:Value>
+                </bushingvda1:BASE__Frequency>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="e3433d79-3f2e-47fd-bdef-ab069b5d25d8" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 F-s stat. Y -10kN 10kN</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:33</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:33</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-10000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">10000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.66667E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-10000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">10000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveForceDisplSt>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Force unit="N">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Force>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveForceDisplSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="d4473b5a-a704-4f5a-8e00-d1645d6bdd5f" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. Y 1mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:25</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:50</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">0.001</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="13bf58ec-c0c7-4747-807d-eef77c327b43" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 M-Phi stat. Y -5deg 5deg</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:36</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:40</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Rotational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionRot>Cardanic</bushingvda1:BASE__DesignDirectionRot>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0436332</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0218166</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveMomentAngleSt>
+              <bushingvda1:BASE__Angle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Angle>
+              <bushingvda1:BASE__Moment unit="Nm">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Moment>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveMomentAngleSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="46e5aa92-89dc-4473-b4bf-d37aed8b613c" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. Z 0,1mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:28</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:56</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Axial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-4</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="e49b4759-7d58-4d2d-9000-a892f8254d18" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. Z 0,01mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:26</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:52</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Axial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-5</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="95b7692e-06cc-46e4-b3fc-af81de45fe43" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 M-Phi stat. Z -25deg 25deg</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:37</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:42</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Rotational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionRot>Torsional</bushingvda1:BASE__DesignDirectionRot>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0436332</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.4363325</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.4363325</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0218166</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.4363325</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.4363325</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveMomentAngleSt>
+              <bushingvda1:BASE__Angle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Angle>
+              <bushingvda1:BASE__Moment unit="Nm">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Moment>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveMomentAngleSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="c6ff6d31-ce4a-48fb-b4ad-16f23bc1a8e3" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. Y 0,01mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:29</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:44</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-5</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="f9a0d627-d577-4731-9514-831ff7abfd0c" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. X 0,01mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:27</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:38</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-5</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="befd2adb-7064-40be-a756-7c09dd108f9e" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-Phi stat. Y -5deg 5deg</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:37</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:01:53</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Rotational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionRot>Cardanic</bushingvda1:BASE__DesignDirectionRot>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0436332</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0218166</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveStiffAngleSt>
+              <bushingvda1:BASE__Angle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Angle>
+              <bushingvda1:BASE__StiffnessRotation unit="Nm/rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__StiffnessRotation>
+            </bushingvda1:BASE__CurveStiffAngleSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="32ca483a-0b78-497a-bc8d-c707339c58a5" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. Y 0,1mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:29</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:48</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Y</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-4</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="37b25563-f21f-49fa-8195-50b31264f95e" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-Phi stat. Z -25deg 25deg</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:38</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:01:55</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Rotational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionRot>Torsional</bushingvda1:BASE__DesignDirectionRot>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0436332</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.4363325</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.4363325</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0218166</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.4363325</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.4363325</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveStiffAngleSt>
+              <bushingvda1:BASE__Angle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Angle>
+              <bushingvda1:BASE__StiffnessRotation unit="Nm/rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__StiffnessRotation>
+            </bushingvda1:BASE__CurveStiffAngleSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="95b52819-a133-4da1-9f6b-ef03adbed55c" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. X 0,01mm 1001Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:30</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:36</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is an extension of the standard measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-5</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>SupportingPoints</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__Frequency unit="1/s">
+                  <exo:Value>1.0</exo:Value>
+                  <exo:Value>3.0</exo:Value>
+                  <exo:Value>5.0</exo:Value>
+                  <exo:Value>7.0</exo:Value>
+                  <exo:Value>9.0</exo:Value>
+                  <exo:Value>11.0</exo:Value>
+                  <exo:Value>13.0</exo:Value>
+                  <exo:Value>15.0</exo:Value>
+                  <exo:Value>17.0</exo:Value>
+                  <exo:Value>19.0</exo:Value>
+                  <exo:Value>21.0</exo:Value>
+                  <exo:Value>23.0</exo:Value>
+                  <exo:Value>25.0</exo:Value>
+                  <exo:Value>27.0</exo:Value>
+                  <exo:Value>29.0</exo:Value>
+                  <exo:Value>31.0</exo:Value>
+                  <exo:Value>36.0</exo:Value>
+                  <exo:Value>41.0</exo:Value>
+                  <exo:Value>46.0</exo:Value>
+                  <exo:Value>51.0</exo:Value>
+                  <exo:Value>56.0</exo:Value>
+                  <exo:Value>61.0</exo:Value>
+                  <exo:Value>66.0</exo:Value>
+                  <exo:Value>71.0</exo:Value>
+                  <exo:Value>76.0</exo:Value>
+                  <exo:Value>81.0</exo:Value>
+                  <exo:Value>86.0</exo:Value>
+                  <exo:Value>91.0</exo:Value>
+                  <exo:Value>96.0</exo:Value>
+                  <exo:Value>101.0</exo:Value>
+                  <exo:Value>111.0</exo:Value>
+                  <exo:Value>121.0</exo:Value>
+                  <exo:Value>131.0</exo:Value>
+                  <exo:Value>141.0</exo:Value>
+                  <exo:Value>151.0</exo:Value>
+                  <exo:Value>161.0</exo:Value>
+                  <exo:Value>171.0</exo:Value>
+                  <exo:Value>181.0</exo:Value>
+                  <exo:Value>191.0</exo:Value>
+                  <exo:Value>201.0</exo:Value>
+                  <exo:Value>301.0</exo:Value>
+                  <exo:Value>401.0</exo:Value>
+                  <exo:Value>501.0</exo:Value>
+                  <exo:Value>601.0</exo:Value>
+                  <exo:Value>701.0</exo:Value>
+                  <exo:Value>801.0</exo:Value>
+                  <exo:Value>901.0</exo:Value>
+                  <exo:Value>1001.0</exo:Value>
+                </bushingvda1:BASE__Frequency>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="bb24bb04-696f-451e-ae73-512daa38de37" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-s stat. X -3kN 3kN</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:40</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:01</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Axial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Displacement</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__DisplacementStart unit="m">-0.003</bushingvda1:BASE__DisplacementStart>
+                <bushingvda1:BASE__DisplacementStop unit="m">0.003</bushingvda1:BASE__DisplacementStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.66667E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Displacement</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__DisplacementStart unit="m">-0.003</bushingvda1:BASE__DisplacementStart>
+                <bushingvda1:BASE__DisplacementStop unit="m">0.003</bushingvda1:BASE__DisplacementStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveStiffDisplSt>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+            </bushingvda1:BASE__CurveStiffDisplSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="b85cdce2-d816-4ccc-983f-ed7961670ed5" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-Phi stat. X -5deg 5deg</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:38</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:01:51</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Rotational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionRot>Cardanic</bushingvda1:BASE__DesignDirectionRot>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0436332</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityRotation unit="rad/s">0.0218166</bushingvda1:BASE__VelocityRotation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeRot>Angle</bushingvda1:BASE__ControlTypeRot>
+                <bushingvda1:BASE__AngleStart unit="rad">-0.0872665</bushingvda1:BASE__AngleStart>
+                <bushingvda1:BASE__AngleStop unit="rad">0.0872665</bushingvda1:BASE__AngleStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveStiffAngleSt>
+              <bushingvda1:BASE__Angle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Angle>
+              <bushingvda1:BASE__StiffnessRotation unit="Nm/rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__StiffnessRotation>
+            </bushingvda1:BASE__CurveStiffAngleSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="06cd1228-52fb-4018-b6af-4b3fadc1173e" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. X 0,1mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:31</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:40</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">1.0E-4</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="5a01302b-7570-4bf1-8693-79c7deca9e69" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-s stat. X -30kN 30kN</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:39</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:01:57</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>HighLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-30000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">30000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.66667E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-30000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">30000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveStiffDisplSt>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+            </bushingvda1:BASE__CurveStiffDisplSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="c7a8fbfa-8d19-41e8-9196-d577ac558300" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 C-dyn trans. X 0,01mm 101Hz</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:31</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T14:32:42</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Bushings</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>X</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Radial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Dynamic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Force</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__ForceStart unit="N">-8000.0</bushingvda1:BASE__ForceStart>
+                <bushingvda1:BASE__ForceStop unit="N">8000.0</bushingvda1:BASE__ForceStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Sweep</bushingvda1:BASE__ProgramType>
+                <bushingvda1:BASE__VariedQuantity>Frequency</bushingvda1:BASE__VariedQuantity>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmHarmonVarFreqMS>
+                <bushingvda1:BASE__Displacement unit="m">0.001</bushingvda1:BASE__Displacement>
+                <bushingvda1:BASE__MediumLoadTranslation unit="N">0.0</bushingvda1:BASE__MediumLoadTranslation>
+                <bushingvda1:BASE__ControlStepSize>StepSize</bushingvda1:BASE__ControlStepSize>
+                <bushingvda1:BASE__FrequencyStart unit="1/s">1.0</bushingvda1:BASE__FrequencyStart>
+                <bushingvda1:BASE__FrequencyStop unit="1/s">101.0</bushingvda1:BASE__FrequencyStop>
+                <bushingvda1:BASE__FrequencyStepSize unit="1/s">2.0</bushingvda1:BASE__FrequencyStepSize>
+              </bushingvda1:BASE__TPmHarmonVarFreqMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveDisplFreqDynTransl>
+              <bushingvda1:BASE__Frequency unit="1/s">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Frequency>
+              <bushingvda1:BASE__Stiffness unit="N/m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Stiffness>
+              <bushingvda1:BASE__LossAngle unit="rad">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__LossAngle>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveDisplFreqDynTransl>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+        <bushingvda1:DataSet globalId="9c19bddc-05ff-4a98-ad3f-29f036eb118c" version="1">
+          <bushingvda1:DataSetMetadata>
+            <bushingvda1:BASE__DatasetMetaDat>
+              <bushingvda1:BASE__DataSetID>
+                <bushingvda1:BASE__DataSetName>PN42110010 T-PN42110010_0001 F-s stat. Z -3mm 3mm</bushingvda1:BASE__DataSetName>
+                <bushingvda1:BASE__Version>1</bushingvda1:BASE__Version>
+                <bushingvda1:BASE__TimeStampCreation>2021-12-23T10:39:34</bushingvda1:BASE__TimeStampCreation>
+                <bushingvda1:BASE__Originator>EXOKNOX</bushingvda1:BASE__Originator>
+                <bushingvda1:BASE__TimeStampModification>2021-12-23T11:02:35</bushingvda1:BASE__TimeStampModification>
+                <bushingvda1:BASE__ModifiedBy>EXOKNOX</bushingvda1:BASE__ModifiedBy>
+                <bushingvda1:BASE__Remark>This data set is part of the standard bushing measurement scope</bushingvda1:BASE__Remark>
+                <bushingvda1:BASE__LoadLevel>LowLoad</bushingvda1:BASE__LoadLevel>
+              </bushingvda1:BASE__DataSetID>
+            </bushingvda1:BASE__DatasetMetaDat>
+            <bushingvda1:BASE__PartUnderTest>
+              <bushingvda1:BASE__PartID>
+                <bushingvda1:BASE__CustPartID>PID19920422</bushingvda1:BASE__CustPartID>
+              </bushingvda1:BASE__PartID>
+            </bushingvda1:BASE__PartUnderTest>
+            <bushingvda1:BASE__TstEquip>
+              <bushingvda1:BASE__DataOrigin>
+                <bushingvda1:BASE__Method>Measurement</bushingvda1:BASE__Method>
+              </bushingvda1:BASE__DataOrigin>
+            </bushingvda1:BASE__TstEquip>
+            <bushingvda1:BASE__TstSq>
+              <bushingvda1:BASE__AdminInfo>
+                <bushingvda1:BASE__Identification>Standard Measurement Program for Dampers</bushingvda1:BASE__Identification>
+              </bushingvda1:BASE__AdminInfo>
+              <bushingvda1:BASE__MeasurementType>
+                <bushingvda1:BASE__MotionDirection>Translational</bushingvda1:BASE__MotionDirection>
+                <bushingvda1:BASE__SpatialDirection>Z</bushingvda1:BASE__SpatialDirection>
+                <bushingvda1:BASE__DesignDirectionTrans>Axial</bushingvda1:BASE__DesignDirectionTrans>
+                <bushingvda1:BASE__Preload>No</bushingvda1:BASE__Preload>
+                <bushingvda1:BASE__Preload2>No</bushingvda1:BASE__Preload2>
+                <bushingvda1:BASE__Preconditioning>Yes</bushingvda1:BASE__Preconditioning>
+                <bushingvda1:BASE__TimeChannelType>None</bushingvda1:BASE__TimeChannelType>
+                <bushingvda1:BASE__MeasurementDynamics>Quasistatic</bushingvda1:BASE__MeasurementDynamics>
+              </bushingvda1:BASE__MeasurementType>
+              <bushingvda1:BASE__PreCondition>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__PreCondition>
+              <bushingvda1:BASE__TPmOscillatExcitPC>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">5.00001E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>10</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Displacement</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__DisplacementStart unit="m">-0.003</bushingvda1:BASE__DisplacementStart>
+                <bushingvda1:BASE__DisplacementStop unit="m">0.003</bushingvda1:BASE__DisplacementStop>
+              </bushingvda1:BASE__TPmOscillatExcitPC>
+              <bushingvda1:BASE__Measurement>
+                <bushingvda1:BASE__ProgramType>Periodic</bushingvda1:BASE__ProgramType>
+              </bushingvda1:BASE__Measurement>
+              <bushingvda1:BASE__TPmOscillatExcitMS>
+                <bushingvda1:BASE__VelocityType>Velocity</bushingvda1:BASE__VelocityType>
+                <bushingvda1:BASE__VelocityTranslation unit="m/s">1.66667E-4</bushingvda1:BASE__VelocityTranslation>
+                <bushingvda1:BASE__SignalShape>Triangle</bushingvda1:BASE__SignalShape>
+                <bushingvda1:BASE__CycleNumber>1</bushingvda1:BASE__CycleNumber>
+                <bushingvda1:BASE__ControlTypeTrans>Displacement</bushingvda1:BASE__ControlTypeTrans>
+                <bushingvda1:BASE__DisplacementStart unit="m">-0.003</bushingvda1:BASE__DisplacementStart>
+                <bushingvda1:BASE__DisplacementStop unit="m">0.003</bushingvda1:BASE__DisplacementStop>
+              </bushingvda1:BASE__TPmOscillatExcitMS>
+              <bushingvda1:BASE__EnvironmentPara>
+                <bushingvda1:BASE__Temperature unit="K">296.15</bushingvda1:BASE__Temperature>
+              </bushingvda1:BASE__EnvironmentPara>
+            </bushingvda1:BASE__TstSq>
+          </bushingvda1:DataSetMetadata>
+          <bushingvda1:Curve>
+            <bushingvda1:BASE__CurveForceDisplSt>
+              <bushingvda1:BASE__Displacement unit="m">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Displacement>
+              <bushingvda1:BASE__Force unit="N">
+                <exo:Value>0.0</exo:Value>
+              </bushingvda1:BASE__Force>
+              <bushingvda1:DeriCharact/>
+            </bushingvda1:BASE__CurveForceDisplSt>
+          </bushingvda1:Curve>
+        </bushingvda1:DataSet>
+      </bushingvda1:DataSets>
+    </bushingvda1:Bundle>
+  </bushingvda1:Bushing>
+</exo:Exoknox>
