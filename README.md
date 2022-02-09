@@ -1,3 +1,5 @@
+![prostep ivip](https://www.prostep.org/fileadmin/templates/img/prostep_logo.svg)
+
 # FDX prostep ivip Functional Data Exchange project Workflow Forum group
 
 Dear user,
