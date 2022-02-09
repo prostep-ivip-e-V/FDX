@@ -12,6 +12,4 @@ The list of published FDX documents:
 - FDX test data (FDX zip containers) is available: https://github.com/prostep-ivip-e-V/FDX/tree/main/Test%20Data
 - The source of the FDX Attribute Converter is available: https://github.com/prostep-ivip-e-V/FDX/tree/main/Attribute-Converter
 
-https://peak-solution.de
-
 Your Prostep ivip FDX Group
