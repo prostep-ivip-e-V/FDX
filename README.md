@@ -1,7 +1,8 @@
-![prostep ivip](https://www.prostep.org/fileadmin/templates/img/prostep_logo.svg)
+<!-- ![prostep ivip](https://www.prostep.org/fileadmin/templates/img/prostep_logo.svg) -->
+![Logo](Images/Prostep-FDX.jpg)
 
-# prostep ivip Project - FDX Functional Data Exchange Workflow Forum
-
+<!-- # prostep ivip Project - Functional Data Exchange (FDX) -->
+# FDX Artefacts
 Dear user,
 
 If you want to comment a document in our repository, please create an issue with a reference to the relevant document to leave your comment.
@@ -15,3 +16,6 @@ The list of published FDX artefacts:
 - [Source of the FDX Attribute Converter](https://github.com/prostep-ivip-e-V/FDX/tree/main/Attribute-Converter)
 
 Your Prostep ivip FDX Workflow Forum Group
+
+# FDX Scope
+![Scope](Images/FDX-Scope.png)
