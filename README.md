@@ -1,6 +1,6 @@
 ![prostep ivip](https://www.prostep.org/fileadmin/templates/img/prostep_logo.svg)
 
-# FDX prostep ivip Functional Data Exchange project Workflow Forum group
+# prostep ivip Project - FDX Functional Data Exchange Workflow Forum
 
 Dear user,
 
@@ -14,4 +14,4 @@ The list of published FDX artefacts:
 - [FDX test data (FDX zip containers)](https://github.com/prostep-ivip-e-V/FDX/tree/main/Test%20Data)
 - [Source of the FDX Attribute Converter](https://github.com/prostep-ivip-e-V/FDX/tree/main/Attribute-Converter)
 
-Your Prostep ivip FDX Group
+Your Prostep ivip FDX Workflow Forum Group
