@@ -1,5 +1,5 @@
-# FDX
-prostep ivip project group Functional Data Exchange Workflow Forum
+# FDX - Functional Data Exchange 
+# prostep ivip project Workflow Forum group
 
 Dear user,
 
