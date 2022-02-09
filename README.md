@@ -12,7 +12,7 @@ The list of published FDX documents:
 
 - FDX Recommendation Part2, 3.1 and 3.2: https://www.prostep.org/fileadmin/downloads/FDX-v2.0_1.zip  
 
-- FDX test data is available: https://github.com/prostep-ivip-e-V/FDX/tree/main/Test%20Data
+- FDX test data (FDX zip containers) is available: https://github.com/prostep-ivip-e-V/FDX/tree/main/Test%20Data
 
 - The source of the FDX Attribute Converter is available: https://github.com/prostep-ivip-e-V/FDX/tree/main/Attribute-Converter
 
