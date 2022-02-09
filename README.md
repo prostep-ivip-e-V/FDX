@@ -1,8 +1,8 @@
-<!-- ![prostep ivip](https://www.prostep.org/fileadmin/templates/img/prostep_logo.svg) -->
-![Logo](Images/Prostep-FDX.jpg)
+![prostep ivip](https://www.prostep.org/fileadmin/templates/img/prostep_logo.svg)
+<!-- ![Logo](Images/Prostep-FDX.jpg) -->
 
-<!-- # prostep ivip Project - Functional Data Exchange (FDX) -->
-# FDX Artefacts
+# prostep ivip Project - Functional Data Exchange (FDX)
+## Artefacts
 Dear user,
 
 If you want to comment a document in our repository, please create an issue with a reference to the relevant document to leave your comment.
@@ -17,5 +17,5 @@ The list of published FDX artefacts:
 
 Your Prostep ivip FDX Workflow Forum Group
 
-# FDX Scope
+## Project Scope
 ![Scope](Images/FDX-Scope.png)
